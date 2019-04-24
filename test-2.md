@@ -1,7 +1,7 @@
 ---
 heading: Testing Head
 sub_heading: Test Subhead
-layout: test-template
+layout: landing-page
 title: Test 2
 banner_image: ''
 hero_button:
