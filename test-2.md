@@ -14,10 +14,12 @@ partners: []
 show_staff: false
 date: 2019-04-24 16:42:27 +0000
 menu:
-  navigation:
-    identifier: _test
-    weight: 2
   footer:
     identifier: _test
     weight: 3
+  navigation:
+    identifier: _test
+    weight: 2
+
 ---
+testing
