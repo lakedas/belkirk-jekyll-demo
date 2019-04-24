@@ -1,6 +1,6 @@
 ---
-heading: Belkirk College
-sub_heading: Engineering and Health Sciences
+heading: Testing Head
+sub_heading: Test Subhead
 layout: home
 title: Test 2
 banner_image: ''
