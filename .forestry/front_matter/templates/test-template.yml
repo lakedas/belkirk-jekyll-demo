@@ -1,4 +1,10 @@
 ---
 label: Test Template
 hide_body: false
-fields: []
+fields:
+- name: header
+  type: text
+  config:
+    required: false
+  label: header
+  description: This is header field
